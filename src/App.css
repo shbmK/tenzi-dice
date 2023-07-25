@@ -56,10 +56,11 @@ main{
 }
 .roll-dice{
   border: none;
+  box-sizing: content-box;
   background-color: #19519b;
   color:white;
   border-radius: 5px;
-  width: 65px;
+  width: 100px;
   height: 50px;
   cursor: pointer;
   font-size: 1.2rem;
